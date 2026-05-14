@@ -35,9 +35,9 @@ waka_9e9d0880-1323-4dc1-a0b4-a552c4c14dd1 -->
 </div>
 
 <!--NÚMERO DE VISITANTES-->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sophiaferreira1a.sophiaferreira1a&left_color=473ba0&right_color=8077c9&left_text=Visitantes"  />
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sophiaferreira1a.sophiaferreira1a&left_text=Visitantes&left_color=6A5ACD&right_color=9370DB" />
+</p>
 
 
 <!--CONTEÚDO PRINCIPAL-->
