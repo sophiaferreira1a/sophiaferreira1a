@@ -1,10 +1,12 @@
 <!--API DO WAKATIME
 waka_9e9d0880-1323-4dc1-a0b4-a552c4c14dd1 -->
 
+<!--BANNER-->
 <div>
 <img align="center" alt="Header" src="https://raw.githubusercontent.com/sophiaferreira1a/sophiaferreira1a/refs/heads/main/github-header-banner.png"/>
 </div>
-----
+
+<!--MÍDIAS SOCIAIS-->
 <div align="center">
 <table>
 <tr>
@@ -31,38 +33,38 @@ waka_9e9d0880-1323-4dc1-a0b4-a552c4c14dd1 -->
 </tr> 
 </table>
 </div>
-###
 
+<!--NÚMERO DE VISITANTES-->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sophiaferreira1a.sophiaferreira1a&left_color=purple&right_color=rebeccapurple&left_text=Visitantes"  />
 </div>
 
-###
 
+<!--CONTEÚDO PRINCIPAL-->
 <h1 align="center">🎮 Sophia Ferreira</h1>
 
-###
-
+<!--SOBRE MIM-->
 <h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
 <br clear="both">
-
 <p align="left">Olá! Bem-vindo(a) ao meu perfil!<br><br>📓 Atualmente curso Engenharia de Software na PUC Minas.<br>⚡ Busco ganhar experiência sobretudo na área de jogos digitais.</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+<!--FERRAMENTAS E LINGUAGENS USADAS-->
+<h3 align="left">🛠 Ferramentas e linguagens que uso:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="12" />   
 </div>
 
 ###
