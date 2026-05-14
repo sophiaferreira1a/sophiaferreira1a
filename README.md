@@ -2,7 +2,7 @@
 waka_9e9d0880-1323-4dc1-a0b4-a552c4c14dd1 -->
 
 <div>
-<img align="center" alt="Header" src="https://sophiaferreira1a.github.io/github-header-banner.png"/>
+<img align="center" alt="Header" src="[https://sophiaferreira1a.github.io/github-header-banner.png](https://raw.githubusercontent.com/sophiaferreira1a/sophiaferreira1a/refs/heads/main/github-header-banner.png)"/>
 </div>
 ----
 <div align="center">
