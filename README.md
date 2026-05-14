@@ -1,6 +1,10 @@
 <!--API DO WAKATIME
 waka_9e9d0880-1323-4dc1-a0b4-a552c4c14dd1 -->
-###
+
+<div>
+<img align="center" alt="Header" src="https://sophiaferreira1a.github.io/github-header-baner.png"/>
+</div>
+----
 <div align="center">
 <table>
 <tr>
