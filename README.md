@@ -1,14 +1,6 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ0bTg2ejlsbWp0OWI5Mm5ydTNteWkxZDMyN3p4bTFjaXg0YmxleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llIaBSC7OWuZv8H05l/giphy.gif"  />
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/_nonoxs?igsh=OGhsdW01ZWwyYmpo&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
+##
 ###
 <div align="center">
 <table>
@@ -24,7 +16,7 @@
 </td>
 <td><a href="https://www.instagram.com/_nonoxs/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/sophia-ferreira/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/sophia-ferreira-35019a3b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
